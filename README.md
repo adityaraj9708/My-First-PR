@@ -23,7 +23,11 @@ git push
 ```
 git status
 ```
- git log
+
+git add 
+
+
+git log
 
 # Hello-World...! I learnt git from Open Hack Day Sri Lanka. 
 
